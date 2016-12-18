@@ -1,5 +1,5 @@
 # lexandmax blog
-#wordpress blog
+#wordpress blog created with https://underscores.me/
 
 
 # Vagrant box ubuntu/trusty64
