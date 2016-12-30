@@ -6,6 +6,8 @@
  *
  * @package lexandmax
  */
+ require_once('wp_bootstrap_navwalker.php');
+
 
 if ( ! function_exists( 'lexandmax_setup' ) ) :
 /**
